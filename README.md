@@ -1,6 +1,5 @@
 # KopyKat
 Peptide Conformation Generation 
 
-This python language platform takes in a peptide pdb file and generates conformations using the openmm molecular dynamics software. The code development was done through google Colab, 
-so the program may operate more smoothly with Colab than with Jupyter. 
+This python language platform takes in a peptide pdb file and generates conformations using the openmm molecular dynamics software. In addition, general molecules or nonstandard peptides can also be applicable provided that they have customized force fields. One avenue to generate a custom force field is through [LigParGen](http://zarbi.chem.yale.edu/ligpargen/index.html). KopyKat was created through google Colab, so the program may operate more smoothly with Colab than with Jupyter. Click [KopyKat](https://colab.research.google.com/drive/1XQFpyve_QcMWBQvyLV5kEpLgzbhqpeO9#scrollTo=x15w2e0-NSgB) to access the Colab notebook version. 
 
