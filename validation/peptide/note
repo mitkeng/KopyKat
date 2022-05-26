@@ -1,6 +1,6 @@
 The conformation ensembles for the peptides were generated with the following settings: 
 
-Environment: gas phase
+Environment model: gas phase
 Force field : amber14/protein.ff14SB.xml
 Energy minimized: yes
 Temperature: 375 Kelvin
