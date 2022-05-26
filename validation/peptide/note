@@ -4,5 +4,5 @@ Environment: gas phase
 Force field : amber14/protein.ff14SB.xml
 Energy minimized: yes
 Temperature: 375 Kelvin
-Number raw conformers: 1000
+Number of conformers: 1000
 Time lapse value: 500
