@@ -22,4 +22,4 @@ This python language platform takes in a peptide pdb file and generates conforma
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/97419520/170679389-ad575915-947d-4643-83e6-91d622a633d1.png" height="180" align="middle" style="height:250px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/97419520/170679014-bcb480d8-d9cf-42d1-bbc4-c9cd04c2e385.png" height="350" align="center" style="height:320px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/97419520/170679389-ad575915-947d-4643-83e6-91d622a633d1.png" height="180" align="middle" style="height:250px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/97419520/170679014-bcb480d8-d9cf-42d1-bbc4-c9cd04c2e385.png" height="350" align="center" style="height:320px">
