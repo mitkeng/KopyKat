@@ -5,4 +5,4 @@ This python language platform takes in a peptide pdb file and generates conforma
 
 
 
-![image](https://user-images.githubusercontent.com/97419520/170676310-9ef8f4d5-c4a6-4bf7-8c26-524f9571fe4c.png height="180" align="center" style="height:150px")
+![image]("https://user-images.githubusercontent.com/97419520/170676310-9ef8f4d5-c4a6-4bf7-8c26-524f9571fe4c.png" height="180" align="center" style="height:150px")
