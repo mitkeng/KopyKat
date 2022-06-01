@@ -1,0 +1,8 @@
+The conformation ensembles for the peptide were generated with the following settings: 
+
+Environment model: gas phase
+Force field : amber14/protein.ff14SB.xml
+Energy minimized: yes
+Temperature: 375 Kelvin
+Number of conformers: 1000
+Time lapse value: 500
