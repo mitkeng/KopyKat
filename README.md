@@ -31,4 +31,3 @@ This python language platform takes in a peptide pdb file and generates conforma
 <br />
 
 
-If needed, conformations from the MD trajectory ensemble in either PDB or SDF formatted file can be extracted and partitioned into individual XYZ files using [one2many](https://colab.research.google.com/drive/1n7KKTaZoDDF5j6W1YPXz01giodmjkCKu?usp=sharing).
